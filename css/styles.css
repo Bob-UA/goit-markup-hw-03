@@ -375,6 +375,8 @@ margin-right: 24px;
 }
 
 .portfolio .item{
+    pad
+    width: 360px;
     border-bottom: 0.5px solid #F4F4FD;
 }
 
@@ -395,11 +397,13 @@ margin-right: 24px;
     font-weight: var(--font-weight-medium);
     font-size: 20px;
     line-height: 1.2;
+    padding-left: 16px;
 }
 
 .portfolio .text{
     font-weight: var(--font-weight-small);
     color: var(--text-color);
+    padding-left: 16px;
 }
 
 
